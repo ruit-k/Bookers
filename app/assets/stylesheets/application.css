@@ -44,3 +44,30 @@ p,a {
     margin-bottom: 10px;
 }
 
+.green {
+    color: green;
+}
+
+.former{
+    display: flex;
+}
+
+.edit a{
+    margin: 0px;
+    color: #666;
+}
+
+.start a {
+    color: #666;
+}
+
+.errors {
+    background-color: red;
+    color: white;
+    margin: -7px -7px 0px
+}
+
+
+
+
+
